@@ -1,0 +1,23 @@
+{
+    "development": {
+        "username": "eng_lmatusse",
+        "password": "Password@2021",
+        "database": "refera",
+        "host": "127.0.0.1",
+        "dialect": "mysql"
+    },
+    "test": {
+        "username": "root",
+        "password": "Password@2021",
+        "database": "refera",
+        "host": "127.0.0.1",
+        "dialect": "mysql"
+    },
+    "production": {
+        "username": "root",
+        "password": "Password@2021",
+        "database": "refera",
+        "host": "127.0.0.1",
+        "dialect": "mysql"
+    }
+}
